@@ -1,8 +1,9 @@
-Kaitlyn Habib
-508-971-5582
-kaitlynhabib211@gmail.com 
-LinkedIn: https://www.linkedin.com/in/kaitlyn-habib/
-
+<p align="center">
+  <strong>Kaitlyn Habib</strong><br>
+  508-971-5582<br>
+  kaitlynhabib211@gmail.com<br>
+  LinkedIn: <a href="https://www.linkedin.com/in/kaitlyn-habib/">kaitlyn-habib</a>
+</p>
 
 # Summary: (may change later to fit help desk once I understand what that entails) 
 
