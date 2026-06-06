@@ -15,4 +15,20 @@ This space contains structured notes, study summaries, and key concepts from cou
 # How I use this Repo
 - Take structured notes during courses'
 - Summarize key ideas in my own words
-- 
+- Break down complex topics into simple explanations
+- Review before exams and interviews
+- Continuously update as I learn new material
+
+# Purpose
+This repository is part of my path toward earning certifications and securing an entry-level job in the tech industry.
+
+# Progress Tracking
+- Start certification course(s)
+- Complete foundational IT topics
+- Finish first certification
+- Perform mock interviews
+- Apply for entry-level IT role
+- Continue learning advanced topics
+
+### Summary of Repo
+This repo is actively updated as I progress through courses and expand my technical knowledge.
