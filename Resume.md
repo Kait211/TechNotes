@@ -1,11 +1,12 @@
+<h3 align="center"><strong>Kaitlyn Habib</strong></h3>
+
 <p align="center">
-  <strong>Kaitlyn Habib</strong><br>
-  508-971-5582<br>
-  kaitlynhabib211@gmail.com<br>
-  LinkedIn: <a href="https://www.linkedin.com/in/kaitlyn-habib/">kaitlyn-habib</a>
+  <strong>508-971-5582</strong> •
+  <strong>kaitlynhabib211@gmail.com</strong> •
+  <strong><a href="https://www.linkedin.com/in/kaitlyn-habib/">LinkedIn</a></strong>
 </p>
 
-# Summary: (may change later to fit help desk once I understand what that entails) 
+### Summary: (may change later to fit help desk once I understand what that entails) 
 
 Graduated magna cum laude with a Bachelor’s in Computer Science, specializing in Cybersecurity. I am proficient in Java, C/C++, and Python after completing comprehensive coursework in object-oriented programming and procedural programming. Additionally, I have invested my own time in coding languages. I am well versed in Linux after completing Introduction to Procedural Programming and Design of Operating Systems. In Addition, I am familiar with cybersecurity concepts through my studies in Digital Forensics and Computer Networks. Finally, when enrolled in Senior Software Eng Project 2, I designed simulated sonar models in Unreal Engine for Huntington Ingalls Industries. Additionally, I possess Ten years of Customer Service experience which helped me to gain customer-centric experience, team building, team leadership, maintaining attention to detail, and working in a fast-paced environment.
 
