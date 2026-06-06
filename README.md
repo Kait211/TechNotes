@@ -23,12 +23,12 @@ This space contains structured notes, study summaries, and key concepts from cou
 This repository is part of my path toward earning certifications and securing an entry-level job in the tech industry.
 
 ### Progress Tracking
-- [ ] Start certification course(s)
-- [ ] Complete foundational IT topics
-- [ ] Finish first certification
-- [ ] Perform mock interviews
-- [ ] Apply for entry-level IT role
-- [ ] Continue learning advanced topics
+1. Start certification course(s) ☐
+2. Complete foundational IT topics ☐
+3. Finish first certification ☐
+4. Perform mock interviews ☐
+5. Apply for entry-level IT role ☐
+6. Continue learning advanced topics ☐
 
 ### Summary of Repo
 This repo is actively updated as I progress through courses and expand my technical knowledge.
