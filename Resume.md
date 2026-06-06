@@ -1,8 +1,8 @@
 <h3 align="center"><strong>Kaitlyn Habib</strong></h3>
 
 <p align="center">
-  <strong>508-971-5582</strong> •
-  <strong>kaitlynhabib211@gmail.com</strong> •
+  <strong>508-971-5582</strong><br>
+  <strong>kaitlynhabib211@gmail.com</strong><br>
   <strong><a href="https://www.linkedin.com/in/kaitlyn-habib/">LinkedIn</a></strong>
 </p>
 
