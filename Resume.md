@@ -12,13 +12,13 @@ Graduated magna cum laude with a Bachelor’s in Computer Science, specializing 
 
 # Education:
 
-### University of Massachusetts Dartmouth, Dartmouth, MA: 			
+### University of Massachusetts Dartmouth, Dartmouth, MA			
 ### Graduated: May 2025
 Bachelors of Computer Science
 
 Major: Computer Science BS, Concentration: Computer Science Cybersecurity, GPA: 3.656
 
-### Bristol Community College New Bedford, MA					
+### Bristol Community College, New Bedford, MA					
 ### Left: May 2020
 Three years of General Courses
 
@@ -28,7 +28,7 @@ Three years of General Courses
 
 # Experience:
 
-### Blount Fine Foods, Warren, RI			October 2025 – Present
+### Blount Fine Foods, Warren, RI,			October 2025 – Present
 Materials Handler
 - Performed loading and unloading duties to maintain the smooth flow of warehouse operations.
 - Picked and staged ingredients and materials according to production recipes and schedules
@@ -36,14 +36,14 @@ Materials Handler
 - Maintained warehouse organization, ensuring efficient inventory storage and accessibility.
 - Assisted with inventory movement and supported daily warehouse operations to meet production goals.
 
-### Jaia Robotics, Bristol, RI				March 2025 – August 2025
+### Jaia Robotics, Bristol, RI,				March 2025 – August 2025
 Robotics Engineer Intern
 - Developed and maintained production software for the JaiaBot system, including internal tools and field-testing utilities.
 - Improved code clarity and reliability.
 - Collaborated with cross-functional teams to support customer demos and field deployments.
 - Contributed to test planning and troubleshooting in dynamic environments.
 
-### Best Buy, North Dartmouth. MA.  			May 2024 – January 2025
+### Best Buy, North Dartmouth, MA,  			May 2024 – January 2025
 Product Flow Specialist 
 - Managed receiving, shipping, and stocking processes to ensure seamless product flow.
 - Assisted customers with product carry-outs, providing friendly and attentive service.
@@ -55,7 +55,7 @@ Office Assistant
 - Oversaw student exams, ensuring adherence to academic integrity protocols.
 - Built positive relationships with students by providing helpful and empathetic assistance.  
 
-### Papa Gino’s, New Bedford. MA. 			Sep 2015 – Nov 2020
+### Papa Gino’s, New Bedford, MA, 			Sep 2015 – Nov 2020
 Team Member
 - Provided excellent customer service by taking orders. 
 - Performed opening and closing shifts, ensuring the restaurant operated smoothly.
