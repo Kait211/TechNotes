@@ -12,14 +12,18 @@ Graduated magna cum laude with a Bachelor’s in Computer Science, specializing 
 
 # Education:
 
-### University of Massachusetts Dartmouth, Dartmouth, MA: 			May 2025
+### University of Massachusetts Dartmouth, Dartmouth, MA: 			
+### Graduated: May 2025
 Bachelors of Computer Science
+
 Major: Computer Science BS, Concentration: Computer Science Cybersecurity, GPA: 3.656
 
-### Bristol Community College New Bedford, MA					May 2020
+### Bristol Community College New Bedford, MA					
+### Left: May 2020
 Three years of General Courses
 
-### Westport High School Westport, MA						May 2016
+### Westport High School Westport, MA						
+### Graduated: May 2016
  High School Diploma, Honors Student.  
 
 # Experience:
