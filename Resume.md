@@ -49,7 +49,7 @@ Product Flow Specialist
 - Assisted customers with product carry-outs, providing friendly and attentive service.
 - Collaborated with team members to maintain efficiency in a fast-paced retail environment.
 
-### Center for Access and Success, UMass Dartmouth. North Dartmouth, MA   	Sep 2021 – May 2025
+### Center for Access and Success, UMass Dartmouth, North Dartmouth, MA   	Sep 2021 – May 2025
 Office Assistant 
 - Organized and maintained files, ensuring accuracy and confidentiality.
 - Oversaw student exams, ensuring adherence to academic integrity protocols.
