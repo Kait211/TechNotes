@@ -3,25 +3,25 @@ A device that stores and processes data by performing calculations
 
 - An Abacus is the earliest computer invented 
 
-# Mechanical Calculator
+### Mechanical Calculator
 - Invented in the 1600s by Blaise Pascal
 - Used gears and levers to automate calculations
 - Could do basic math: +, −, ×, ÷
 - Helped inspire later machines
 
-# Jacquard Loom (1800s)
+### Jacquard Loom (1800s)
 - Invented by Joseph Jacquard
 - Used punch cards to control weaving patterns
 - “Programmable” machine
 - Influenced early computing ideas
 
-# Charles Babbage
+### Charles Babbage
 - Difference Engine (advanced calculator)
 - Analytical Engine (more advanced programmable machine)
 - Used punch cards inspired by Jacquard
 - Could do pre-program calculations
 
-# Ada Lovelace
+### Ada Lovelace
 - First computer programmer
 - Created the first algorithm
 - Realized machines could do more than math
@@ -31,19 +31,19 @@ A device that stores and processes data by performing calculations
 - Computers evolved from: human calculation → mechanical tools → programmable machines
 - Modern computing is built on centuries of innovation in math, engineering, and ideas
 
-# Algorithm
+### Algorithm
 A series of steps that solve specific problems
 
-# Cryptography
+### Cryptography
 The art of writing and solving codes
 
-# The very first compiler
+### The very first compiler
 - Was invented by Admiral Grace Hopper
 
 # Linux
 A widely used opensource operating system
 
-# The thre main desktop operating systems used today are
+# The the main desktop operating systems used today are
 - Windows
 - MacOS
 - Linux
