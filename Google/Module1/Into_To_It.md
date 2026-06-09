@@ -21,12 +21,12 @@ As an It professional we work to solve the digital divide meaning we help those 
 
 # What is the day to day work for someone in IT
 - Managing
-- Instaling 
-- Maintaning
+- Installing 
+- Maintaining
 - Troubleshooting
-- Congiguring 
+- Configuring 
 
-The video named Get started with your Google It Support Certificate let me know that appon completion of google cert you can get a discount on CompTIA A+ Certification Plus Series, I would watch this again wgen finish
+The video named Get started with your Google It Support Certificate let me know that apron completion of google cert you can get a discount on CompTIA A+ Certification Plus Series, I would watch this again when finish
 
 # The facets of IT 
 - technology, 
