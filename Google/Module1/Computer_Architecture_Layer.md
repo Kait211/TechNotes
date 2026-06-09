@@ -12,3 +12,9 @@ to take a relatively complex system and simplify it for our use
 
 ### What a critical aspect of working as an IT support professional
 The human element 
+
+# What distinguishes computers from calculators 
+algorithms can be programmed into computers
+
+# What is the current method used to communicate binary
+electrical signals that flow through transistors
