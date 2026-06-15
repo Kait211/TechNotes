@@ -1,3 +1,5 @@
+- **The drivers**  contain the instructions ​our CPU needs to understand ​external devices like keyboards, webcams, printers.
+
 ### Basic Input Output Services (BIOS)
 Software that helps initialize the hardware and gets our operating system up and running
 
@@ -8,7 +10,9 @@ Performs the same functions of starting your computer as the traditional BIOS, b
 
 -  **CMOS chip**: ​It stores basic data about boosting your computer, ​like the date, time, ​and how you want it to start up. ​You can change these settings by booting ​into CMOS or BIOS settings menu.
 
--  ​A frequently performed IT task ​is the reimaging of a computer.The term refers to a disk image, ​which is a copy of an operating system. ​The process of reimaging involves ​wiping and installing an operating system. 
+-  ​A frequently performed IT task ​is the reimaging of a computer.The term refers to a disk image, ​which is a copy of an operating system. ​The process of reimaging involves ​wiping and installing an operating system.
+
+- When you turn on a computer, ​you might notice a beeping from time-to-time. ​Our computers run a test to make ​sure all the hardware is working correctly. ​This is called a **power-on self-test or POST**. ​The bios runs it when you boot up your computer. ​The POST figures out what hardware is on the computer. ​It happens before the BIOS initializes ​any hardware or loads up essential drivers. 
 
 ### Disk Image
 Copy of an operating system
