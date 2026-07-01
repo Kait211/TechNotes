@@ -15,5 +15,3 @@
 - Research the company that you're applying to 
 
 -  ​Learn about the main characteristics of the company, what their primary products ​or services are, who their customers are and where they're located. ​Look for things that are new, interesting and exciting about the company's future. ​Try to learn about some of the challenges the company might be facing. ​If the company has a code of conduct or mission statement online, ​make sure to read it, as it will illustrate what the company prioritizes. ​Knowing the company's values will help you decide whether it's a company you want ​to work for. 
-
-# Making a change
