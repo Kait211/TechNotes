@@ -101,12 +101,12 @@ a Way for two devices to ensure that they're speaking the same protocol and will
 ![Four_way_handshake Diagram](../../images/Four_way_handshake.png)
 
 ### Socket 
-The instantiation of an end-point in a potential TCP connection 
+The instantiation of an end-point in a potential TCP connection
+
+### Instantiation
+The actual implementation of something defined elsewhere
 
 # Socket States 
-
-- **Instantiation** 
-The actual implementation of something defined elsewhere
 
 - **LISTEN**
 A TCP socket is ready and listening for incoming connections 
