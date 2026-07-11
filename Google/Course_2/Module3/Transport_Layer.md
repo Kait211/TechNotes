@@ -99,3 +99,112 @@ a Way for two devices to ensure that they're speaking the same protocol and will
 - Once one of the devices involved with the TCP connection is ready to ​close the connection, something known as a four-way handshake happens.
 
 ![Four_way_handshake Diagram](../../images/Four_way_handshake.png)
+
+### Socket 
+The instantiation of an end-point in a potential TCP connection 
+
+# Socket States 
+
+- **Instantiation** 
+The actual implementation of something defined elsewhere
+
+- **LISTEN**
+A TCP socket is ready and listening for incoming connections 
+
+- **SYN_SENT**
+A synchronization request has been sent, but the connection hasn't been established yet 
+
+- **SYN-RECEIVED**
+A socket previously in a LISTEN state has received a synchronization request and sent a SYN/ACK back 
+
+- **ESTABLISHED**
+The TCP connection is in working order and both sides are free to send each other data 
+
+- **FIN_WAIT**
+A FIN has been sent, but the corresponding ACK from the other end hasn't been received yet 
+
+- **CLOSE_WAIT**
+The connection has been closed at the TCP layer, but that application that opened the socket hasn't released its hold on the socket yet
+
+- **CLOSED**
+The connection has been fully terminated and that no further communication is possible 
+
+- ​When troubleshooting issues at the TCP layer, ​make sure you check out ​the exact socket state definitions ​for the systems you're working with. 
+
+### Connection-oriented protocol 
+establishes a connection, and uses this to ensure that all data has been properly transmitted 
+
+- ​You have to tear the connection down at the end that all accounts for ​a lot of extra traffic. ​While this is important traffic, it's really only useful if you absolutely, ​positively have to be sure your data reaches its destination. ​You can contrast this with connectionless protocols. ​The most common of these is known as UDP or User Data Cram Protocol. ​Unlike TCP, UDP doesn't rely on connections and ​it doesn't even support the concept of an acknowledgement. ​With udp, you just set a destination port and send the packet. ​This is useful for messages that aren't super important. 
+
+- ​A great example of UDP is streaming video​, Let's imagine that each UDP datagram is a single frame of a video. ​For the best viewing experience. ​You might hope that every single frame makes it to the viewer, but ​it doesn't really matter if a few get lost along the way. ​A video will still be pretty watchable unless it's missing a lot of its frames. ​By getting rid of all the overhead of tcp, ​you might actually be able to send higher quality video with udp. ​That's because you'll be saving more of the available bandwidth for ​actual data transfer instead of the overhead of establishing connections and ​acknowledging delivered data segments. 
+
+# System Ports vs. Ephemeral Ports - Short Notes
+
+## Ports
+
+- A **port** is a **16-bit number** used to direct network traffic to the correct service.
+- There are **65,535** possible port numbers.
+- Ports operate at the **Transport Layer**.
+
+## Service vs. Client
+
+- **Service (Server):** Waits for incoming data requests.
+- **Client:** Requests data from a service.
+
+## TCP and Sockets
+
+- **TCP** establishes network connections and transfers data.
+- A **TCP segment** specifies which ports are used.
+- A **socket** is an **active port** that is listening for incoming connections.
+
+## Port Categories (IANA)
+
+### System Ports (1–1023)
+
+- Reserved for common services.
+- Examples:
+  - **FTP:** Port **21**
+  - **Telnet over TLS/SSL:** Port **992**
+- Typically not used for outbound traffic on modern operating systems.
+
+### User Ports (1024–49151)
+
+- Registered for vendor-specific applications.
+- Used by many server applications.
+
+### Ephemeral (Dynamic) Ports (49152–65535)
+
+- Temporary ports used by **clients**.
+- Used for short-lived network connections.
+
+## TCP Data Integrity
+
+TCP ensures reliable communication by using:
+
+- **Acknowledgments (ACKs):** Confirm data was received.
+- **Checksums:** Verify data was not corrupted during transmission.
+
+## Port Security
+
+- Open ports can be exploited by attackers.
+- **Port scanning** is used to find open or vulnerable ports.
+- Use a **firewall** to:
+  - Protect ports
+  - Block unauthorized access
+  - Open only the ports that are needed
+
+## Key Facts
+
+- **Port:** A 16-bit number that directs network traffic.
+- **Socket:** An active, listening port.
+- **TCP:** Provides reliable data transfer using acknowledgments and checksums.
+- **IANA** divides ports into:
+  - **System:** 1–1023
+  - **User:** 1024–49151
+  - **Ephemeral:** 49152–65535
+```
+
+### Firewall 
+A device that blocks traffic that meets certain criteria
+
+- ​All major modern operating systems ​have firewall functionality built in. ​That way, blocking or ​allowing traffic to various ports and ​therefore to specific services ​can be performed at the host level as well. 
