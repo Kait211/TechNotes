@@ -202,7 +202,6 @@ TCP ensures reliable communication by using:
   - **System:** 1–1023
   - **User:** 1024–49151
   - **Ephemeral:** 49152–65535
-```
 
 ### Firewall 
 A device that blocks traffic that meets certain criteria

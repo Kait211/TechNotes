@@ -3,7 +3,7 @@ Allows these applications to communicate in a way they understand
 
 # OSI Model
 
-![OSI Model Diagram](../../images/OSI_Model.png.png)
+![OSI Model Diagram](../../images/OSI_Model.png)
 
 ### Session layer
 Responsible for facilitating the communication between actual applications and the transport layer. Takes the application layer data and hands it off to the presentation layer 
