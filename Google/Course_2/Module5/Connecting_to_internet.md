@@ -182,6 +182,6 @@ WAN connects distant LANs. Routers connect them. VPNs secure them.
 also called a site-to-site VPN, ​establishes a VPN tunnel between two sites. 
 - This operates a lot like ​the way that a traditional VPN setup ​lets individual users act as ​if they're on the network they're connecting to. ​It's just that the VPN tunneling logic ​is handled by network devices ​at either side so that users ​don't all have to establish their own connections. 
 
-![site_to_sit_vpn Diagram](../../images/site_to_sit_vpn.png)
+![site_to_site_vpn Diagram](../../images/site_to_site_vpn.png)
 
 - The Internet Service Provider (ISP) handles sending data from one site to another.
