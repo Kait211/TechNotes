@@ -1,0 +1,29 @@
+# Glossary
+
+- **Cloud computing:** Accessing data, applications, and files over the internet from anywhere.
+- **Error detection:** The ability to identify when something went wrong.
+- **Error recovery:** The ability to attempt to fix an error.
+- **Flow label field:** A 20-bit IPv6 header field used with the traffic class field to help routers manage Quality of Service (QoS).
+- **Hop limit field:** An 8-bit IPv6 field that replaces IPv4's TTL (Time to Live) field.
+- **Host file:** A text file that maps hostnames to IP addresses.
+- **Hybrid cloud:** A cloud environment that combines private (on-premises) and public cloud resources.
+- **Hypervisor:** Software that creates and manages virtual machines (VMs).
+- **ICMP (Internet Control Message Protocol):** Used to send network error and diagnostic messages.
+- **ICMP payload:** The part of an ICMP packet that identifies which transmission caused the reported error.
+- **Infrastructure as a Service (IaaS):** Cloud service that provides virtual servers and networking.
+- **IPv6 tunnel brokers:** Companies that provide IPv6 tunneling endpoints.
+- **IPv6 tunnel:** Encapsulates IPv6 traffic inside IPv4 packets so it can travel across IPv4 networks.
+- **Link-local unicast address:** An IPv6 address used for communication within the same local network.
+- **Loopback address:** An IP address that points back to the same device for testing.
+- **Multicast:** Sending data to a group of devices at the same time.
+- **Next header field:** An IPv6 header field that specifies the type of the next header.
+- **Payload length field:** A 16-bit IPv6 field that indicates the size of the data payload.
+- **Platform as a Service (PaaS):** Cloud service that provides a platform for developing and running applications.
+- **Private cloud:** Cloud infrastructure owned and managed by a single organization.
+- **Public cloud:** Cloud services provided by a third-party provider.
+- **Public DNS servers:** DNS servers that anyone can use for free.
+- **Registrar:** An organization that registers and manages domain names.
+- **Software as a Service (SaaS):** Software hosted online and accessed through the internet.
+- **Traffic class field:** An 8-bit IPv6 field that prioritizes different types of network traffic.
+- **Version field:** The first IP header field that identifies the IP version.
+- **Virtualization:** Running multiple virtual machines (guests) on a single physical computer (host).
