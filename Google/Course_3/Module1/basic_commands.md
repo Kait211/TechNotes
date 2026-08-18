@@ -61,8 +61,30 @@ A character that's used to help select files based on a certain pattern
 ### -Recurse
 List the contents of the directory
 
+**Meaning:** Includes everything inside a folder, including subfolders and their contents.
+
+**Example:**
+
+### powershell exampple
+cp documents C:\Users\old -Recurse
+
+this copies 
+- the documents folder
+- files inside it
+- subfolders inside it
+- files inside those subfolders
+
 ### -Verbose
 Copy doesn't output anything to the CLI by default unless there are errors 
+
+**Meaning** Shows detailed information about what the command is doing
+
+**Example**
+
+### powershell example
+cp documents C:\Users\old -Recurse -Verbose
+
+powershell will display information about the files and folders it is copying, easy way to remember verbose tell me what your doing
 
 # example of cp on powershell
 PS C:\Users\Owner\Desktop> cp Picture.webp C:\Users\Owner\Documents
