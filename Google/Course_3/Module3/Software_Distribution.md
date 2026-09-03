@@ -41,5 +41,3 @@ Come with the works to make package installation and removal easier. including i
 - What PowerShell command can be used to extract and compress archives right from the command line? 
 
 Compress-Archive
-
-Dependencies
