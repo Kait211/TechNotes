@@ -4,12 +4,11 @@ Makes sure that the process of software installation, removal, update, and depen
 - APT stands for Advanced Package Tool
 
 # An example of how to install/remove a package in ubuntu CLI
-'''
+```
 sudo apt install gimp
 
 sudo apt remove gimp
-'''
-
+```
 - Repositories are servers that act like a central storage location for packages
 
 - The repository source file in Ubuntu is /ect/apt/sources.list
