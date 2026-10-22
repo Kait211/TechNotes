@@ -1,7 +1,6 @@
 # Types of IT Infrastructure: Physical, Software, Network, and Directory
 ![IT_Infrastructure Diagram](../../images/IT_Infrastructure.png)
 
-```md
 ### IT Infrastructure Services
 
 **Physical Infrastructure:** Physical hardware, such as servers and computers, that a company manages on-site or at another location.
@@ -37,4 +36,3 @@
 **Disadvantages:** Creates recurring costs and dependence on the cloud provider.
 
 **Important:** Understand how a service works and how to maintain it before relying on a cloud provider.
-```
