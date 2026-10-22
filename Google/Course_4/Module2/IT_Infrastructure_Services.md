@@ -36,3 +36,38 @@
 **Disadvantages:** Creates recurring costs and dependence on the cloud provider.
 
 **Important:** Understand how a service works and how to maintain it before relying on a cloud provider.
+
+### Server Operating systems
+Regular operating systems that are optimized for server functionality 
+
+### Remote Access
+
+**Remote Access:** Connecting to and controlling a computer from another location.
+
+**Uses of Remote Access:** Fix computer problems, transfer files, and work from home.
+
+### Remote Access Tools
+
+**SSH (Secure Shell):** Securely connects to another computer to run commands and transfer files. Commonly used with Linux servers.
+
+**RMM (Remote Monitoring and Management):** Allows IT staff to monitor, maintain, and update many computers remotely.
+
+**RDP (Remote Desktop Protocol):** Allows you to see and control another computer's desktop remotely. Uses port 3389.
+
+**VPN (Virtual Private Network):** Creates an encrypted connection to a private network over the internet, allowing remote users to access company resources securely.
+
+### Third-Party Tools
+
+**Video Conferencing Apps:** Tools like Zoom, Google Meet, and Microsoft Teams allow people to meet online and share screens.
+
+**Cloud File Sharing:** Services like Google Drive, OneDrive, and Dropbox let users store and share files online.
+
+**FTP (File Transfer Protocol):** Used to transfer files between computers. Secure versions can use SSH or HTTPS.
+
+### Security Risks
+
+**RDP Risks:** Attackers may exploit weak passwords or stolen login information to access computers.
+
+**Remote Access Security:** Remote connections need strong passwords, encryption, and security updates to help prevent attacks.
+
+**Cloud Storage Risks:** Cloud file sharing may create privacy or security problems if files are not properly protected.
