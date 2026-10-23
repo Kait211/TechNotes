@@ -45,3 +45,7 @@ That way ongoing connections aren't interrupted but ​new connections will use 
 
 ### dnsmasq
 A program that provides DNS, DHCP, TFTP and PXE services in a simple package
+
+# dnsmasq reference guide link
+https://docs.google.com/document/d/1IlMrKgWltH37bYCJGCWJIZZwT7Y05fsuxsHL7tq_CJ4/edit?usp=sharing&resourcekey=0-hHy8_8D70uuhcIBOtVs2ew
+
