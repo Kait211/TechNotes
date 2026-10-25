@@ -92,3 +92,23 @@ Allow us to store, query, filter, and manage large amounts of data
 Web server software that delivers websites to users through their web browsers.
 
 **Example:** When someone visits a website, Apache2 sends the website's files to their browser so they can see the page.
+
+# Troubleshooting platform services
+HTTP status codes are codes or numbers that indicate some sort of error or info messages that occurred when trying to access a web resource 
+
+- Knowing these codes are helpful when trying to figure out a problem with a website some examples of these codes are...
+
+### 404 Not Found
+A 404 error indicates that the URL you entered doesn't point to anything 
+
+- HTTP status codes that start with **4xx** indicate an issue on the **client-side**
+
+- The other common HTTP status code you might see start with **5xx**
+
+- These errors indicate an issue on the **server-side**
+
+- HTTP status codes tell us more than just errors 
+
+- They can also tell us when our request is **successful**, which is denoted by the codes that begin with 2xx
+
+- Tools that are built into the browsers to help diagnose issues with the browsers are called developer tools 
