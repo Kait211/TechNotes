@@ -73,4 +73,4 @@ Those enacted after a disaster has occurred
 ### Risk assessment 
 Allows you to prioritize certain aspects of the organization that are more at risk if there's an unforeseen event
 
-![Recovery_Plan Diagram](../../images/Recovery_Plan.png)
+![Recovery_Plan Diagram](../../images/Recovery_Plans.png)
