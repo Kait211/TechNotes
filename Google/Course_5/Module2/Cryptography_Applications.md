@@ -71,6 +71,7 @@ An encryption application that allows authenticate of data, along with privacy f
 
 ### Virtual Private network (VPN)
 A mechanism that allows you to remotely connect to a host or network to an internal private network, passing the date over a public channel, like the internet 
+
 ![VPN Diagram](../../images/VPN.png)
 
 # IP packet example
